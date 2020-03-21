@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooquooxeu.jklu.tech/sitemap.xml
